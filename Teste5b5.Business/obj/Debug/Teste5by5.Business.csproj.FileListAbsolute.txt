@@ -1,0 +1,13 @@
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Business.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Business.pdb
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Data.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Entities.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\EntityFramework.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Data.pdb
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Data.dll.config
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Entities.pdb
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\bin\Debug\EntityFramework.xml
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5by5.Business.csprojResolveAssemblyReference.cache
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5by5.Business.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5b5.Business.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5b5.Business.pdb

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Teste5b5.Entities.Pagamento>
+@{
+    ViewBag.Title = "Visualizar Pagamentos";
+}
+
+<h2>Listagem de Pagamentos</h2>
+<br /><br />
+@if (Model.Count() == 0)
+{
+    <div class="alert alert-secondary" role="alert">
+        Nenhum registro encontrado!
+    </div>
+}
+else
+{
+    <div class="form-group">
+        <table class="table table-striped">
+            <tr>
+                <th>Nome</th>
+                <th>Valor</th>
+                <th>Data</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+            <tr class="objetoPagamento">
+                <td>@item.Nome</td>
+                <td class="valores"> @string.Format("R$ {0:N}", item.Valor)</td>
+                <td class="datas">@item.Data.ToString("dd/MM/yyy")</td>
+            </tr>
+            }
+        </table>
+    </div>
+
+    <br />
+
+    <div class="form-group">
+        <label class="col-lg-2 col-md-2">Pesquisar por data</label>
+        <input id="filtroData" type="text" class=form-control col-lg-4 col-md-4 col-sm-4" />
+        <button class="btn btn-default" id="btnPesquisarPorData">Obter valor</button>
+    </div>
+
+    <div class="form-group">
+        <label>Valor total a ser pago:</label>
+        <label id="lblValor"></label>
+    </div>
+}
+
+@section scripts{
+    <script src="~/Scripts/Pagamento/listar.js"></script>
+}

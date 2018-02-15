@@ -1,0 +1,10 @@
+C:\Users\PVO\source\repos\Teste5b5\Teste5b5.Entities\bin\Debug\Teste5b5.Entities.dll
+C:\Users\PVO\source\repos\Teste5b5\Teste5b5.Entities\bin\Debug\Teste5b5.Entities.pdb
+C:\Users\PVO\source\repos\Teste5b5\Teste5b5.Entities\obj\Debug\Teste5b5.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PVO\source\repos\Teste5b5\Teste5b5.Entities\obj\Debug\Teste5b5.Entities.dll
+C:\Users\PVO\source\repos\Teste5b5\Teste5b5.Entities\obj\Debug\Teste5b5.Entities.pdb
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Entities\bin\Debug\Teste5b5.Entities.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Entities\bin\Debug\Teste5b5.Entities.pdb
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Entities\obj\Debug\Teste5b5.Entities.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Entities\obj\Debug\Teste5b5.Entities.dll
+C:\Users\marko\Downloads\Teste5b5\Teste5b5.Entities\obj\Debug\Teste5b5.Entities.pdb
