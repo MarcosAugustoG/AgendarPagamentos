@@ -11,3 +11,40 @@ C:\Users\marko\Downloads\Teste5b5\Teste5b5.Data\obj\Debug\Teste5by5.Data.csprojR
 C:\Users\marko\Downloads\Teste5b5\Teste5b5.Data\obj\Debug\Teste5by5.Data.csproj.CoreCompileInputs.cache
 C:\Users\marko\Downloads\Teste5b5\Teste5b5.Data\obj\Debug\Teste5b5.Data.dll
 C:\Users\marko\Downloads\Teste5b5\Teste5b5.Data\obj\Debug\Teste5b5.Data.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Teste5b5.Data.dll.config
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Teste5b5.Data.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Teste5b5.Data.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\EntityFramework.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Teste5b5.Entities.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Teste5b5.Entities.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\EntityFramework.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\obj\Debug\Teste5by5.Data.csprojResolveAssemblyReference.cache
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\obj\Debug\Teste5by5.Data.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\obj\Debug\Teste5b5.Data.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\obj\Debug\Teste5b5.Data.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Chart.Mvc.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.Helpers.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.Razor.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.WebPages.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Chart.Mvc.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Chart.Mvc.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.Helpers.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.Mvc.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.Razor.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.WebPages.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Data\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll

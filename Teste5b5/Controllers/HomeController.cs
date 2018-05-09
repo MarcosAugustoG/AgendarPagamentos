@@ -14,6 +14,21 @@ namespace Teste5b5.Controllers
             return View();
         }
 
+        [HttpPost]
+        public ActionResult Deletar(int id)
+        {
+            try
+            {
+                var negocio = new PagamentoBusiness();
+                negocio.Deletar(id);
+                return Json("Ok");
+            }
+            catch (Exception ex)
+            {
+                return Json(new { erro = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+        }
+
         #region Métodos de listagem
         [HttpGet]
         public ActionResult Listar()
@@ -49,5 +64,20 @@ namespace Teste5b5.Controllers
             }
         }
         #endregion
+
+        [HttpGet]
+        public ActionResult BuscarDadosGrafico()
+        {
+            try
+            {
+                var negocio = new PagamentoBusiness();
+                var lista = negocio.BuscarDadosGrafico();
+                return View("Listar",lista);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { erro = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
+        }
     }
 }

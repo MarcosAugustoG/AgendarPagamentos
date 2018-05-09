@@ -15,6 +15,18 @@ namespace Teste5b5.Business
             data.Cadastrar(novoPagamento);
         }
 
+        public IEnumerable<Pagamento> BuscarDadosGrafico()
+        {
+            var data = new PagamentoData();
+            return data.BuscarDadosGrafico();
+        }
+
+        public void Deletar(int id)
+        {
+            var data = new PagamentoData();
+            data.Deletar(id);
+        }
+
         public IEnumerable<Pagamento> Listar()
         {
             var data = new PagamentoData();

@@ -19,13 +19,16 @@ else
                 <th>Nome</th>
                 <th>Valor</th>
                 <th>Data</th>
+                <th>Ações</th>
             </tr>
             @foreach (var item in Model)
             {
             <tr class="objetoPagamento">
+                <td id="id" class="hidden">@item.Id</td>
                 <td>@item.Nome</td>
                 <td class="valores"> @string.Format("R$ {0:N}", item.Valor)</td>
                 <td class="datas">@item.Data.ToString("dd/MM/yyy")</td>
+                <td><a class="glyphicon glyphicon-trash excluir" style="cursor: pointer"></a></td>
             </tr>
             }
         </table>
@@ -43,6 +46,8 @@ else
         <label>Valor total a ser pago:</label>
         <label id="lblValor"></label>
     </div>
+
+    <canvas class="line-chart" width="400" height="400"></canvas>
 }
 
 @section scripts{

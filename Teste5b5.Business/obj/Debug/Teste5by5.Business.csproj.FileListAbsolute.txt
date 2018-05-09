@@ -11,3 +11,40 @@ C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5by5.Business
 C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5by5.Business.csproj.CoreCompileInputs.cache
 C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5b5.Business.dll
 C:\Users\marko\Downloads\Teste5b5\Teste5b5.Business\obj\Debug\Teste5b5.Business.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Business.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Business.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Data.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Entities.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\EntityFramework.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Data.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Data.dll.config
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Teste5b5.Entities.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\EntityFramework.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\obj\Debug\Teste5by5.Business.csprojResolveAssemblyReference.cache
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\obj\Debug\Teste5by5.Business.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\obj\Debug\Teste5b5.Business.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\obj\Debug\Teste5b5.Business.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Chart.Mvc.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.Helpers.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Chart.Mvc.pdb
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Chart.Mvc.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.Helpers.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\pt-br\System.Web.Helpers.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\pt-br\System.Web.Mvc.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\pt-br\System.Web.Razor.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\pt-br\System.Web.WebPages.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marko\OneDrive\Área de Trabalho\Teste5b5\Teste5b5.Business\bin\Debug\pt-br\System.Web.WebPages.Razor.resources.dll
